@@ -1,5 +1,4 @@
-This is my fouth file in branch2 - modify this line
+This is my fouth file in branch2 - making change in psasession client
 Welcome
-End of third file
-
-New line added in branch2 of psasession1
+End of third file - modified
+Fourth line will also clash
